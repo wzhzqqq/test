@@ -1,0 +1,5 @@
+mport numpy as np # 科学计算
+import matplotlib.pyplot as plt # 画图
+import scipy.signal as sg # 导入 scipy 的 signal 库 命名为 sg
+import warnings
+warnings.filterwarnings(“ignore”) # 去掉常规警告
